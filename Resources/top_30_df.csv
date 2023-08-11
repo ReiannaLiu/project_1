@@ -1,31 +1,31 @@
-Ticker,company,address,city,state,zip,country,Average Manager Age
-PLTR,Palantir Technologies Inc.,1200 17th Street,Denver,CO,80202,United States,46
-TLRY,"Tilray Brands, Inc.",265 Talbot Street West,Leamington,ON,N8H 5L4,Canada,55
-TSLA,"Tesla, Inc.",1 Tesla Road,Austin,TX,78725,United States,43
-LCID,"Lucid Group, Inc.",7373 Gateway Boulevard,Newark,CA,94560,United States,53
-AAPL,Apple Inc.,One Apple Park Way,Cupertino,CA,95014,United States,58
-NIO,NIO Inc.,Building 20,Shanghai,N/A,201804,China,50
-AMD,"Advanced Micro Devices, Inc.",2485 Augustine Drive,Santa Clara,CA,95054,United States,57
-AMZN,"Amazon.com, Inc.",410 Terry Avenue North,Seattle,WA,98109-5210,United States,56
-RIVN,"Rivian Automotive, Inc.",14600 Myford Road,Irvine,CA,92606,United States,47
-F,Ford Motor Company,One American Road,Dearborn,MI,48126-1899,United States,57
-BAC,Bank of America Corporation,Bank of America Corporate Center,Charlotte,NC,28255,United States,55
-T,AT&T Inc.,208 South Akard Street,Dallas,TX,75202,United States,54
-MPW,"Medical Properties Trust, Inc.",1000 Urban Center Drive,Birmingham,AL,35242-2225,United States,58
-NVDA,NVIDIA Corporation,2788 San Tomas Expressway,Santa Clara,CA,95051,United States,60
-AMC,"AMC Entertainment Holdings, Inc.",One AMC Way,Leawood,KS,66211,United States,55
-INTC,Intel Corporation,2200 Mission College Boulevard,Santa Clara,CA,95054-1549,United States,55
-ITUB,Itaú Unibanco Holding S.A.,Praça Alfredo Egydio de Souza Aranha,São Paulo,SP,04344-902,Brazil,48
-JNJ,Johnson & Johnson,One Johnson & Johnson Plaza,New Brunswick,NJ,08933,United States,56
-VALE,Vale S.A.,Praia de Botafogo 186,Rio de Janeiro,RJ,22250-145,Brazil,53
-SOFI,"SoFi Technologies, Inc.",234 1st Street,San Francisco,CA,94105,United States,51
-MARA,"Marathon Digital Holdings, Inc.",101 NE Third Avenue,Fort Lauderdale,FL,33301,United States,51
-DDOG,"Datadog, Inc.",620 8th Avenue,New York,NY,10018,United States,48
-LYG,Lloyds Banking Group plc,25 Gresham Street,London,N/A,EC2V 7HN,United Kingdom,55
-DISH,DISH Network Corporation,9601 South Meridian Boulevard,Englewood,CO,80112,United States,58
-AAL,American Airlines Group Inc.,1 Skyview Drive,Fort Worth,TX,76155,United States,55
-OPEN,Opendoor Technologies Inc.,410 North Scottsdale Road,Tempe,AZ,85281,United States,45
-SWN,Southwestern Energy Company,10000 Energy Drive,Spring,TX,77389,United States,51
-PFE,Pfizer Inc.,66 Hudson Boulevard East,New York,NY,10001-2192,United States,58
-HPE,Hewlett Packard Enterprise Company,1701 East Mossy Oaks Road,Spring,TX,77389,United States,56
-JBLU,JetBlue Airways Corporation,27-01 Queens Plaza North,Long Island City,NY,11101,United States,46
+Ticker,company,address,city,state,zip,country,address_combined,Average Manager Age
+PLTR,Palantir Technologies Inc.,1200 17th Street,Denver,CO,80202,United States,"1200 17th Street, Denver, CO, 80202, United States",46
+TLRY,"Tilray Brands, Inc.",265 Talbot Street West,Leamington,ON,N8H 5L4,Canada,"265 Talbot Street West, Leamington, ON, N8H 5L4, Canada",55
+TSLA,"Tesla, Inc.",1 Tesla Road,Austin,TX,78725,United States,"1 Tesla Road, Austin, TX, 78725, United States",45
+LCID,"Lucid Group, Inc.",7373 Gateway Boulevard,Newark,CA,94560,United States,"7373 Gateway Boulevard, Newark, CA, 94560, United States",53
+AAPL,Apple Inc.,One Apple Park Way,Cupertino,CA,95014,United States,"One Apple Park Way, Cupertino, CA, 95014, United States",58
+NIO,NIO Inc.,Building 20,Shanghai,N/A,201804,China,"Building 20, Shanghai, N/A, 201804, China",50
+AMD,"Advanced Micro Devices, Inc.",2485 Augustine Drive,Santa Clara,CA,95054,United States,"2485 Augustine Drive, Santa Clara, CA, 95054, United States",57
+AMZN,"Amazon.com, Inc.",410 Terry Avenue North,Seattle,WA,98109-5210,United States,"410 Terry Avenue North, Seattle, WA, 98109-5210, United States",56
+RIVN,"Rivian Automotive, Inc.",14600 Myford Road,Irvine,CA,92606,United States,"14600 Myford Road, Irvine, CA, 92606, United States",47
+F,Ford Motor Company,One American Road,Dearborn,MI,48126-1899,United States,"One American Road, Dearborn, MI, 48126-1899, United States",57
+BAC,Bank of America Corporation,Bank of America Corporate Center,Charlotte,NC,28255,United States,"Bank of America Corporate Center, Charlotte, NC, 28255, United States",55
+T,AT&T Inc.,208 South Akard Street,Dallas,TX,75202,United States,"208 South Akard Street, Dallas, TX, 75202, United States",54
+MPW,"Medical Properties Trust, Inc.",1000 Urban Center Drive,Birmingham,AL,35242-2225,United States,"1000 Urban Center Drive, Birmingham, AL, 35242-2225, United States",58
+NVDA,NVIDIA Corporation,2788 San Tomas Expressway,Santa Clara,CA,95051,United States,"2788 San Tomas Expressway, Santa Clara, CA, 95051, United States",60
+AMC,"AMC Entertainment Holdings, Inc.",One AMC Way,Leawood,KS,66211,United States,"One AMC Way, Leawood, KS, 66211, United States",55
+INTC,Intel Corporation,2200 Mission College Boulevard,Santa Clara,CA,95054-1549,United States,"2200 Mission College Boulevard, Santa Clara, CA, 95054-1549, United States",55
+ITUB,Itaú Unibanco Holding S.A.,Praça Alfredo Egydio de Souza Aranha,São Paulo,SP,04344-902,Brazil,"Praça Alfredo Egydio de Souza Aranha, São Paulo, SP, 04344-902, Brazil",48
+JNJ,Johnson & Johnson,One Johnson & Johnson Plaza,New Brunswick,NJ,08933,United States,"One Johnson & Johnson Plaza, New Brunswick, NJ, 08933, United States",56
+VALE,Vale S.A.,Praia de Botafogo 186,Rio de Janeiro,RJ,22250-145,Brazil,"Praia de Botafogo 186, Rio de Janeiro, RJ, 22250-145, Brazil",53
+SOFI,"SoFi Technologies, Inc.",234 1st Street,San Francisco,CA,94105,United States,"234 1st Street, San Francisco, CA, 94105, United States",51
+MARA,"Marathon Digital Holdings, Inc.",101 NE Third Avenue,Fort Lauderdale,FL,33301,United States,"101 NE Third Avenue, Fort Lauderdale, FL, 33301, United States",51
+DDOG,"Datadog, Inc.",620 8th Avenue,New York,NY,10018,United States,"620 8th Avenue, New York, NY, 10018, United States",48
+LYG,Lloyds Banking Group plc,25 Gresham Street,London,N/A,EC2V 7HN,United Kingdom,"25 Gresham Street, London, N/A, EC2V 7HN, United Kingdom",55
+DISH,DISH Network Corporation,9601 South Meridian Boulevard,Englewood,CO,80112,United States,"9601 South Meridian Boulevard, Englewood, CO, 80112, United States",58
+AAL,American Airlines Group Inc.,1 Skyview Drive,Fort Worth,TX,76155,United States,"1 Skyview Drive, Fort Worth, TX, 76155, United States",55
+OPEN,Opendoor Technologies Inc.,410 North Scottsdale Road,Tempe,AZ,85281,United States,"410 North Scottsdale Road, Tempe, AZ, 85281, United States",45
+SWN,Southwestern Energy Company,10000 Energy Drive,Spring,TX,77389,United States,"10000 Energy Drive, Spring, TX, 77389, United States",51
+PFE,Pfizer Inc.,66 Hudson Boulevard East,New York,NY,10001-2192,United States,"66 Hudson Boulevard East, New York, NY, 10001-2192, United States",58
+HPE,Hewlett Packard Enterprise Company,1701 East Mossy Oaks Road,Spring,TX,77389,United States,"1701 East Mossy Oaks Road, Spring, TX, 77389, United States",56
+JBLU,JetBlue Airways Corporation,27-01 Queens Plaza North,Long Island City,NY,11101,United States,"27-01 Queens Plaza North, Long Island City, NY, 11101, United States",46
