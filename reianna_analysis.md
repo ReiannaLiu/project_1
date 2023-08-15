@@ -32,7 +32,7 @@ Upon examining the stacked bar charts representing news coverage for each stock,
 + Timely Updates: Financial news is fast-paced. Multiple publishers ensure that investors receive timely updates and insights on rapidly changing market conditions.
 + Investor Preferences: Investors have varying preferences for news sources. Including multiple publishers caters to the diverse preferences of the investor community.
 
-### Motley Fool, Zacks, and Reuters are Most Active
+### Result #2: Motley Fool and Zacks are Most Active
 
 The examination of the stacked bar charts representing news coverage for each stock sheds light on the prominent role of two publishers: Motley Fool and Zacks. These publishers consistently emerge as the most active in terms of publishing news articles for the top 30 active stock market companies.
 
