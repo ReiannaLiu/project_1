@@ -11,9 +11,9 @@ The goal is to identify which region or state has the highest concentration of s
 
 
 ### 2. Growth of Stock Prices for Companies over Time
-#### Researcher: Osman Dumbuya
+#### Researcher: Ziye Jin
 
-This analysis focuses on understanding the growth of stock prices for different companies over a specified time period. A bar chart visualization will be created to display the companies with the highest growth in stock prices during the given period.
+This analysis focuses on understanding the growth of stock prices for different companies over a specified time period. A line chart visualization will be created to display both the companies with the highest growth in stock prices and companies with most decline during the given period.
 
 ### 3. Spread of Managers' Age in Stock Market Companies
 #### Researcher: Ziye Jin
@@ -31,7 +31,7 @@ For this analysis, the goal is to determine which publisher has published the mo
 The focus of this analysis is to establish a correlation between the stock price and the stock volume of companies. The correlation will be calculated and visualized to provide insights into the relationship between stock price movements and trading volume.
 
 ### 6. Sector-wise Average Total Revenue Analysis
-#### Researcher: Ziye Jin
+#### Researcher: Osman Dumbuya
 
 This research question involves analyzing the sectors in the stock market to identify which sector has the highest average total revenue for each quarter or year. The results will be visualized using appropriate charts to showcase the sectors with the highest average total revenue.
 
