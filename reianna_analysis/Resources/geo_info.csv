@@ -1,0 +1,31 @@
+Ticker,company,state,address_combined,Lat,Lng
+PLTR,Palantir Technologies Inc.,CO,"1200 17th Street, Denver, CO, 80202, United States",39.749488,-104.995521
+TLRY,"Tilray Brands, Inc.",ON,"265 Talbot Street West, Leamington, ON, N8H 5L4, Canada",42.051302,-82.621871
+TSLA,"Tesla, Inc.",TX,"1 Tesla Road, Austin, TX, 78725, United States",30.224762,-97.605674
+LCID,"Lucid Group, Inc.",CA,"7373 Gateway Boulevard, Newark, CA, 94560, United States",37.54222168923314,-122.05992880688132
+AAPL,Apple Inc.,CA,"One Apple Park Way, Cupertino, CA, 95014, United States",37.3350413,-122.0143858
+NIO,NIO Inc.,,"Building 20, Shanghai, N/A, 201804, China",31.3771112,121.24520169276869
+AMD,"Advanced Micro Devices, Inc.",CA,"2485 Augustine Drive, Santa Clara, CA, 95054, United States",37.38214954040959,-121.97161272030866
+AMZN,"Amazon.com, Inc.",WA,"410 Terry Avenue North, Seattle, WA, 98109-5210, United States",47.62225397959184,-122.33702828571428
+RIVN,"Rivian Automotive, Inc.",CA,"14600 Myford Road, Irvine, CA, 92606, United States",33.71114465,-117.80301840823162
+F,Ford Motor Company,MI,"One American Road, Dearborn, MI, 48126-1899, United States",42.317334,-83.208048
+BAC,Bank of America Corporation,NC,"Bank of America Corporate Center, Charlotte, NC, 28255, United States",35.150264,-80.836605
+T,AT&T Inc.,TX,"208 South Akard Street, Dallas, TX, 75202, United States",32.7796842798101,-96.7991600166271
+MPW,"Medical Properties Trust, Inc.",AL,"1000 Urban Center Drive, Birmingham, AL, 35242-2225, United States",33.484377,-86.704658
+NVDA,NVIDIA Corporation,CA,"2788 San Tomas Expressway, Santa Clara, CA, 95051, United States",37.3714739,-121.9678767
+AMC,"AMC Entertainment Holdings, Inc.",KS,"One AMC Way, Leawood, KS, 66211, United States",38.892091,-94.626212
+INTC,Intel Corporation,CA,"2200 Mission College Boulevard, Santa Clara, CA, 95054-1549, United States",37.387829,-121.9633667
+ITUB,Itaú Unibanco Holding S.A.,SP,"Praça Alfredo Egydio de Souza Aranha, São Paulo, SP, 04344-902, Brazil",-23.635840700000003,-46.64182095159675
+JNJ,Johnson & Johnson,NJ,"One Johnson & Johnson Plaza, New Brunswick, NJ, 08933, United States",40.4978882,-74.4430916
+VALE,Vale S.A.,RJ,"Praia de Botafogo 186, Rio de Janeiro, RJ, 22250-145, Brazil",-22.940928149999998,-43.17974756059805
+SOFI,"SoFi Technologies, Inc.",CA,"234 1st Street, San Francisco, CA, 94105, United States",37.78790869565217,-122.39539382608696
+MARA,"Marathon Digital Holdings, Inc.",FL,"101 NE Third Avenue, Fort Lauderdale, FL, 33301, United States",26.123405,-80.140626
+DDOG,"Datadog, Inc.",NY,"620 8th Avenue, New York, NY, 10018, United States",40.756019,-73.990552
+LYG,Lloyds Banking Group plc,,"25 Gresham Street, London, N/A, EC2V 7HN, United Kingdom",51.51626,-0.09559
+DISH,DISH Network Corporation,CO,"9601 South Meridian Boulevard, Englewood, CO, 80112, United States",39.54564225,-104.85632159887919
+AAL,American Airlines Group Inc.,TX,"1 Skyview Drive, Fort Worth, TX, 76155, United States",32.82547945,-97.06544226633356
+OPEN,Opendoor Technologies Inc.,AZ,"410 North Scottsdale Road, Tempe, AZ, 85281, United States",33.43339767955246,-111.92636056203622
+SWN,Southwestern Energy Company,TX,"10000 Energy Drive, Spring, TX, 77389, United States",30.099097,-95.43691664473859
+PFE,Pfizer Inc.,NY,"66 Hudson Boulevard East, New York, NY, 10001-2192, United States",40.7552497,-73.99958174474746
+HPE,Hewlett Packard Enterprise Company,TX,"1701 East Mossy Oaks Road, Spring, TX, 77389, United States",30.100817,-95.477764
+JBLU,JetBlue Airways Corporation,NY,"27-01 Queens Plaza North, Long Island City, NY, 11101, United States",40.750522,-73.938945
